@@ -5,7 +5,9 @@
 
 - 🌱 I’m currently learning **Backend**
 
+
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/gurjazz18/overview](https://app.netlify.com/teams/gurjazz18/overview)
+- 👨‍💻 My PortFolio [ https://gurjazz18.github.io/]( https://gurjazz18.github.io/)
 
 - 📫 How to reach me **sumer.ki359@gmail.com**
 
