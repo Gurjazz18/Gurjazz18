@@ -9,9 +9,12 @@
 
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gurjazz18" alt="gurjazz18" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gurjazz18" alt="gurjazz18" /></a>
 
-<br/>
+</br>
+</p>
+
+
 
 - 🌱 I’m currently learning **Backend**
 
@@ -27,9 +30,10 @@
 <br/>
 <p align="center">
 <a href="https://linkedin.com/in/linkedin.com/in/kailash-chandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/kailash-chandra" height="30" width="40" /></a>
-  <br>
+  </br>
 </p>
 
+<!----------------------------------- Tech Stack Section ------------------------------------>
 
 <h2><i>Tech Stack</i></h2>
 
@@ -51,7 +55,7 @@
     <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
 </p>
-<br>
+</br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gurjazz18&show_icons=true&locale=en&layout=compact" alt="gurjazz18" /></p>
 
