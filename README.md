@@ -20,9 +20,9 @@
 
 
 
-- 👨‍💻 <h2>All of my projects are available</h2> [https://app.netlify.com/teams/gurjazz18/overview](https://app.netlify.com/teams/gurjazz18/overview)
-- 👨‍💻<h2>  Portfolio </h2> [https://gurjazz18.github.io/]( https://gurjazz18.github.io/)
-- 👨‍💻<h2> Resume </h2> https://drive.google.com/file/d/1vjZmBEaluRS0kR6VS2_-HSAFLm080tYD/view?usp=sharing
+- 👨‍💻 <h2>All of my projects are available</h2> [https://app.netlify.com/teams/gurjazz18/overview](All Projects)
+- 👨‍💻<h2>  Portfolio </h2> [https://gurjazz18.github.io/]( Portfolio)
+- 👨‍💻<h2> Resume </h2> [https://drive.google.com/file/d/1vjZmBEaluRS0kR6VS2_-HSAFLm080tYD/view?usp=sharing](Resume)
 
 - 📫 How to reach me **sumer.ki359@gmail.com**
 
