@@ -21,8 +21,8 @@
 
 
 
-- 👨‍💻<h2>  Portfolio </h2> [Portfolio]( [Portfolio](https://gurjazz18.github.io/))
-- 👨‍💻<h2> Resume </h2> [Resume](https://drive.google.com/file/d/1vjZmBEaluRS0kR6VS2_-HSAFLm080tYD/view?usp=sharing))
+- 👨‍💻 Portfolio  [Portfolio]((https://gurjazz18.github.io/))
+- 👨‍💻Resume  [Resume](https://drive.google.com/file/d/1vjZmBEaluRS0kR6VS2_-HSAFLm080tYD/view?usp=sharing))
 
 - 📫 How to reach me **sumer.ki359@gmail.com**
 
