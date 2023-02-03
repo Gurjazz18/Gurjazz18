@@ -25,14 +25,20 @@
 
 - 👨‍💻 Portfolio  [Portfolio](https://gurjazz18.github.io/)
 - 👨‍💻Resume  [Resume](https://drive.google.com/file/d/1vjZmBEaluRS0kR6VS2_-HSAFLm080tYD/view?usp=sharing)
+ - 📫 How to reach me **sumer.ki359@gmail.com**
 
-- 📫 How to reach me **sumer.ki359@gmail.com**
+
 <br/>
 <hr/>
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/kailash-chandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/kailash-chandra" height="30" width="40" /></a>
+ 
+ 
+
+ 
+ 
   </br>
 </p>
 
