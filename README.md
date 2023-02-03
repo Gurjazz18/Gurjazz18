@@ -5,8 +5,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Kailash Chandra</h1>
-
-<h3 align="center">I am  Full Stack Web Developer, with expertise in HTML, CSS, JavaScript, Node and React. Passionate about learning new technology</h3>
+ 
+ <h3 align="center"> I am  Full Stack Web Developer, with expertise in HTML, CSS, JavaScript, Node and React. Passionate about learning new technology</h3>
+ </br>
 
 
 
@@ -23,12 +24,13 @@
 
 
 - 👨‍💻 Portfolio  [Portfolio](https://gurjazz18.github.io/)
-- 👨‍💻Resume  [Resume](https://drive.google.com/file/d/1vjZmBEaluRS0kR6VS2_-HSAFLm080tYD/view?usp=sharing))
+- 👨‍💻Resume  [Resume](https://drive.google.com/file/d/1vjZmBEaluRS0kR6VS2_-HSAFLm080tYD/view?usp=sharing)
 
 - 📫 How to reach me **sumer.ki359@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <br/>
+<hr/>
+<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/kailash-chandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/kailash-chandra" height="30" width="40" /></a>
   </br>
