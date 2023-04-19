@@ -25,6 +25,7 @@
 
 - 👨‍💻 Portfolio  [Portfolio](https://gurjazz18.github.io/)
 - 👨‍💻Resume  [Resume](https://drive.google.com/file/d/1vjZmBEaluRS0kR6VS2_-HSAFLm080tYD/view?usp=sharing)
+- 👨‍💻LinkedIn [   (https://www.linkedin.com/in/kailash-chandra/)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3By14BiriWTCqosk%2B6tZ5cxQ%3D%3D)
  - 📫 How to reach me **sumer.ki359@gmail.com**
 
 
