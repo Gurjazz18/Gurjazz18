@@ -25,23 +25,15 @@
 
 - 👨‍💻 Portfolio  [Portfolio](https://gurjazz18.github.io/)
 - 👨‍💻Resume  [Resume](https://drive.google.com/file/d/1vjZmBEaluRS0kR6VS2_-HSAFLm080tYD/view?usp=sharing)
-- 👨‍💻LinkedIn [   (https://www.linkedin.com/in/kailash-chandra/)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3By14BiriWTCqosk%2B6tZ5cxQ%3D%3D)
+- 👨‍💻LinkedIn [(https://www.linkedin.com/in/kailash-chandra/)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3By14BiriWTCqosk%2B6tZ5cxQ%3D%3D)
  - 📫 How to reach me sumer.ki359@gmail.com
 
 
 <br/>
 <hr/>
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/kailash-chandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/kailash-chandra" height="30" width="40" /></a>
- 
- 
 
  
- 
-  </br>
-</p>
+
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
 
