@@ -12,7 +12,7 @@
 
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gurjazz18" alt="gurjazz18" /></a>
+
 
 </br>
 </p>
@@ -64,6 +64,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gurjazz18&show_icons=true&locale=en" alt="gurjazz18" /></p>
 
+
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gurjazz18&" alt="gurjazz18" /></p>
+</br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gurjazz18" alt="gurjazz18" /></a>
 
 
