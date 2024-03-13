@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm Kailash Chandra</h1>
  
- <h3 align="center">  An aspiring mern  developer , with expertise in HTML, CSS, JavaScript, Node and React. Passionate about learning new technology.
+ <h3 align="center">  A mern  developer , with expertise in HTML, CSS, JavaScript, Node and React. Passionate about learning new technology.
  I am willing to collaborate as a team player building better code</h3>
  </br>
 
